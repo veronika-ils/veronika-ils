@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center">A second year student from North Macedonia</h3>
 
-- 🔭 I’m currently working on **EkoSrekja**
+- 🔭 I’m currently working on **ZineMaster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
