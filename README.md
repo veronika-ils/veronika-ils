@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center">A third year student from North Macedonia</h3>
 
-- 🔭 I’m currently working on [ZineMaster](https://github.com/veronika-ils/zinemaster-backend)
+- 🔭 I’m currently working on [VehicleCounter](https://github.com/veronika-ils/vehicleCounter)
 
 - 📫 How to reach me **ilioskaveronika@gmail.com**
 
