@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/veronika-ilioska-42655a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronikailioska" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veronika-ilioska-42655a243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veronikailioska" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/veronikailioska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="veronikailioska" height="30" width="40" /></a>
 </p>
 
