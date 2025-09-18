@@ -3,7 +3,7 @@
 
 <h3 align="center">A third year student from North Macedonia</h3>
 
-- 🔭 I’m currently working on [VehicleCounter](https://github.com/veronika-ils/vehicleCounter)
+- 🔭 I’m currently working on [Faculty of Economics](https://user38.delovna.finki.ukim.mk/)
 
 - 📫 How to reach me **ilioskaveronika@gmail.com**
 
