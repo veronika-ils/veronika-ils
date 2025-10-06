@@ -32,10 +32,6 @@ A little about me:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=bash,bootstrap,cpp,css,docker,html,java,js,postgres,postman,python,sklearn,spring,vue&theme=light" />
 </p>
-
----
-
-<h3 align="center" style="color:pink;">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=veronika-ils&show_icons=true&locale=en&layout=compact&title_color=ff69b4&text_color=ffb6c1&icon_color=ff69b4&bg_color=00000000" alt="veronika-ils"/>
 </p>
