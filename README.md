@@ -21,7 +21,7 @@ A little about me:
 <a href="https://www.linkedin.com/in/veronika-ilioska-42655a243/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="veronikailioska"/>
 </a>
-<a href="https://www.leetcode.com/veronikailioska" target="blank">
+<a href="https://leetcode.com/u/veronika6/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LeetCode-ff69b4?style=for-the-badge&logo=leetcode&logoColor=white" alt="veronikailioska"/>
 </a>
 </p>
