@@ -7,7 +7,7 @@
 
 A little about me:  
 - 🎓 I’m currently studying **Computer Science** as a third-year student.  
-- 🔭 Working on [**EkoSreka**](https://github.com/veronika-ils/ekoSreka).  
+- 🔭 Working on [**Petify**](https://develop.finki.ukim.mk/projects/petify).  
 - 💻 Love building **creative websites**, experimenting with **AI/ML**, and solving coding challenges.  
 - 📚 Always learning & exploring new technologies.  
 - 🎀 Fun fact: I enjoy combining **tech with creativity** to make things prettier *and* smarter.  
