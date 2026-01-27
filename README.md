@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color:pink;">🌸 Welcome to my GitHub 🌸</h1>
 
-<h3 align="center" style="color:hotpink;">✨ Third-Year Computer Science Student | 🌍 North Macedonia | 💡 Passionate about Web Dev, AI & Data ✨</h3>
+<h3 align="center" style="color:hotpink;">✨ Third-Year Computer Science Student | 🌍 Macedonia | 💡 Passionate about Web Dev, AI & Data Science✨</h3>
 
 ---
 
